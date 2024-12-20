@@ -1,5 +1,5 @@
 # prueba-giovanni
 primer repo creado en github
 
-##descripcion
+## descripcion
 es un repo creasdo por giovanni para practicar
