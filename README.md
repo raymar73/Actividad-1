@@ -2,4 +2,4 @@
 Creacion de Biliotecas
 
 ## descripcion
-repositorio para la practica de creacion de bibliotecxa de streming
+repositorio para la practica de creacion de biblioteca de streming
