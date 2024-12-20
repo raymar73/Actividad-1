@@ -1,5 +1,5 @@
-# prueba-giovanni
-primer repo creado en github
+# Actividad 1
+Creacion de Biliotecas
 
 ## descripcion
-es un repo creasdo por giovanni para practicar
+repositorio para la practica de creacion de bibliotecxa de streming
